@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled1.domain.main" target="1.8" />
+      <module name="untitled1.domain.test" target="1.8" />
+      <module name="untitled1.main" target="1.8" />
+      <module name="untitled1.repository.main" target="1.8" />
+      <module name="untitled1.repository.test" target="1.8" />
+      <module name="untitled1.test" target="1.8" />
+      <module name="UserKeepre.domain.main" target="1.8" />
+      <module name="UserKeepre.domain.test" target="1.8" />
+      <module name="UserKeepre.main" target="1.8" />
+      <module name="UserKeepre.repository.main" target="1.8" />
+      <module name="UserKeepre.repository.test" target="1.8" />
+      <module name="UserKeepre.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
